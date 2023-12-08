@@ -70,7 +70,7 @@
     var reviews = [
         { name: 'Taylor Nguyen', date: '11/12/2023', rating: 4, comment: 'Went to Nha Trang beach with my friend. Great experience!' },
         { name: 'John Smith', date: '9/4/2023', rating: 5, comment: 'Clean hotel, professional staffs. Will take a trip next year.' },
-		{ name: 'Ha Do', date: '5/5/2022', rating: 3, comment: 'Just went back home from a wonderful tour to Ha Noi capital. Recomment! ' },
+		{ name: 'Ha Do', date: '5/5/2022', rating: 3, comment: 'Just went back home from a wonderful tour to Ha Noi capital. Recommend.' },
 		{ name: 'Denis Welson', date: '11/10/2022', rating: 5, comment: 'Nice eperience!' },
 		
         
